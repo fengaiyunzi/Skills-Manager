@@ -3,7 +3,7 @@
 > **一款用于管理 AI 编程助手技能（Skills）的统一桌面应用。**
 > 无缝组织、同步和共享 **Claude Code、Codex、Opencode** 及其他 AI 工具的技能。
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-1.0.2-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [English README](./README.md)
 
@@ -40,11 +40,25 @@
 | **Windows** | `.msi` / `.exe` |
 | **Linux** | `.deb` / `.AppImage` / `.rpm` |
 
+## ⚠️ Windows 用户重要提示
+
+如果您在同步 Skills 时遇到权限问题（软链接创建失败）或检测不到工具，请尝试以 **管理员身份 (Run as Administrator)** 运行本程序。Windows 系统默认需要管理员权限才能创建软链接，除非您开启了开发者模式。
+
 ## 🚀 快速开始
 
 1. **安装**：下载并运行对应平台的安装程序。
 2. **设置**：首次启动时，应用会引导您选择或创建技能存储目录。
 3. **同步**：应用会自动检测已安装的 AI 工具（如 Claude Code）并建立skills链接。
+
+## ❗ Linux 常见问题 (Troubleshooting)
+
+如果您在 Linux（特别是虚拟机环境，如 VMware/VirtualBox）运行 `.AppImage` 时遇到**白屏**问题，通常是 WebKitGTK 硬件加速导致的。
+
+请尝试在终端中使用以下命令启动：
+
+```bash
+WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Skills-Manager_1.0.1_amd64.AppImage
+```
 
 ## 🛠️ 技术栈
 

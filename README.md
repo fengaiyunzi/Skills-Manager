@@ -3,7 +3,7 @@
 > **A unified desktop application for managing AI coding assistant skills.**
 > Seamlessly organize, sync, and share skills for **Claude Code、Codex、Opencode** and other AI tools.
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-1.0.2-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [中文说明](./README_CN.md)
 
@@ -40,11 +40,25 @@ Download the latest installer for your operating system from the **[Releases Pag
 | **Windows** | `.msi` / `.exe` |
 | **Linux** | `.deb` / `.AppImage` / `.rpm`|
 
+## ⚠️ Windows Important Note
+
+If you encounter permission issues when syncing skills (symbolic link creation errors) or detection issues, please try running the application as **Administrator**. This is often required on Windows to create symbolic links unless Developer Mode is enabled.
+
 ## 🚀 Getting Started
 
 1. **Install**: Run the installer for your platform.
 2. **Setup**: On first launch, the app will guide you to select your skills storage directory.
 3. **Sync**: The app automatically detects installed AI tools (like Claude Code) and links your skills.
+
+## ❗ Linux Troubleshooting
+
+If you encounter a **blank white screen** when launching the `.AppImage` on Linux (especially in virtual machines like VMware/VirtualBox), it is likely a WebKitGTK hardware acceleration issue.
+
+Please run the application from the terminal with the following command:
+
+```bash
+WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Skills-Manager_1.0.1_amd64.AppImage
+```
 
 ## 🛠️ Technology Stack
 
