@@ -3,7 +3,7 @@
 > **一款用于管理 AI 编程助手技能（Skills）的统一桌面应用。**
 > 无缝组织、同步和共享 **Claude Code、Codex、Opencode** 及其他 AI 工具的技能。
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-1.0.3-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [English README](./README.md)
 
@@ -17,9 +17,11 @@
 
 - **🎯 统一管理**：在一个安全的位置集中管理所有的 AI Skills。
 - **🔄 智能同步**：自动化的软链接管理，确保您的工具始终使用最新版本的技能，无需手动复制文件。
+- **🎛️ 灵活控制**：无需删除源文件，即可随时针对特定工具启用或禁用某个 Skill。
 - **⚡ 极致性能**：基于 **Rust** 和 **Tauri 2.0** 构建，带来轻量级、秒开的极致体验。
 - **🛡️ 跨平台支持**：完美支持 macOS、Windows 和 Linux 系统。
 - **🔌 多工具支持**：开箱即用支持 **Claude Code、Codex、Opencode**等常用工具，并具备良好的扩展性。
+- **🧩 自定义工具**：支持用户添加自定义工具，配置路径与图标。
 - **🎨 现代 UI**：基于 React 19、Tailwind CSS v4 和 Radix UI 打造的精美界面。
 
 ## 📸 应用截图
