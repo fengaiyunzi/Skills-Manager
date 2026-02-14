@@ -3,7 +3,7 @@
 > **A unified desktop application for managing AI coding assistant skills.**
 > Seamlessly organize, sync, and share skills for **Claude Code, Codex, Opencode** and other AI tools.
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-1.1.1-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [中文说明](./README_CN.md)
 
@@ -27,9 +27,11 @@ It uses a powerful **symlink synchronization mechanism**, allowing you to write 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://image.freeourdays.com/1.png" alt="Screenshot 1" ">
-  <img src="https://image.freeourdays.com/2.png" alt="Screenshot 2" ">
-  <img src="https://image.freeourdays.com/3.png" alt="Screenshot 3" ">
+  <img src="https://image.freeourdays.com/141.png" alt="应用截图 1" ">
+  <img src="https://image.freeourdays.com/142.png" alt="应用截图 2" ">
+  <img src="https://image.freeourdays.com/143.png" alt="应用截图 3" ">
+  <img src="https://image.freeourdays.com/144.png" alt="应用截图 4" ">
+  <img src="https://image.freeourdays.com/145.png" alt="应用截图 5" ">
 </p>
 
 ## 📥 Download
@@ -88,6 +90,16 @@ We welcome all forms of contribution!
 
 - **Found a bug?** Please submit an issue on our [Issues](../../issues) page.
 - **Have a feature request?** We'd love to hear your ideas! Feel free to open an issue to discuss new features.
+
+## 💝 Support
+
+If this project helps you, feel free to support via QR code.
+
+| WeChat Support QR | Alipay Support QR |
+|---|---|
+| <img src="https://image.freeourdays.com/2024/WechatIMG276.jpg" alt="WeChat Support QR" height="300" /> | <img src="https://image.freeourdays.com/zfb.jpg" alt="Alipay Support QR" height="300" /> |
+
+Or support via Ko-fi: [ko-fi.com/yeheboo](https://ko-fi.com/yeheboo)
 
 ## 📈 Star History
 
